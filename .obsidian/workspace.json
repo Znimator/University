@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "604361d939a35e90",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2d5fa01a9d5981a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48fad09d3feb1a48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Преподаватели.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1cc20bb6c6684d25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Семинары/Семинар 1 (07.09.2023) - История.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db6cc55bec90b7b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd7267488fffe984",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "640c9aba0bfbdb6d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e6579371e1d94ac5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5773d277f6da6985",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a82598e534e87b19",
+    "type": "split",
+    "children": [
+      {
+        "id": "584bef421d56183e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96ed93a19cef227b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Семинары/Семинар 1 (07.09.2023) - История.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "137eb57b16026c4b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Семинары/Семинар 1 (07.09.2023) - История.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f9b2e58e49724912",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "97784cde93971138",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Семинары/Семинар 1 (07.09.2023) - История.md"
+              }
+            }
+          },
+          {
+            "id": "880ec35eba4f9c96",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "1cc20bb6c6684d25",
+  "lastOpenFiles": [
+    "University/README.md",
+    "University",
+    "Семинары/Физ ра 1.md",
+    "Семинары/Семинар 1 (07.09.2023) - История.md",
+    "Семинары/Лента Времени.canvas",
+    "Лекции/05.09.2023 - История, Рождение Истории человечества.md",
+    "Лекции",
+    "Семинары",
+    "Преподаватели.md",
+    "07.09.2023 - Современные Инф. Тех..md"
+  ]
+}
