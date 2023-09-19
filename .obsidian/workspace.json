@@ -40,9 +40,21 @@
                 "currentVersion": "1.4.12"
               }
             }
+          },
+          {
+            "id": "614a7c69fc854a4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лекции/19.09.2023 - История.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Разное/Дневник Самоконтроля.md",
+                "file": "Лекции/19.09.2023 - История.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Разное/Дневник Самоконтроля.md",
+                "file": "Лекции/19.09.2023 - История.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Разное/Дневник Самоконтроля.md"
+                "file": "Лекции/19.09.2023 - История.md"
               }
             }
           },
@@ -189,8 +201,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a5445e191f04b180",
+  "active": "614a7c69fc854a4c",
   "lastOpenFiles": [
+    "Лекции/19.09.2023 - История.md",
     "Семинары/07.09.2023 - Современные Инф. Тех..md",
     "Семинары/Семинар 1 (07.09.2023) - История.md",
     "Семинары/Физ ра 1.md",
