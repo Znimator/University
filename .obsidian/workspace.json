@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лекции/История 11.10.2023.md",
+                "file": "Семинары/Семинары по истории.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Лекции/19.09.2023 - История.md",
+                "file": "Семинары/Семинары по истории.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Лекции/19.09.2023 - История.md",
+                "file": "Семинары/Семинары по истории.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Лекции/19.09.2023 - История.md"
+                "file": "Семинары/Семинары по истории.md"
               }
             }
           },
@@ -179,8 +179,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "640c9aba0bfbdb6d",
+  "active": "e68184212e1dc81a",
   "lastOpenFiles": [
+    "Семинары/07.09.2023 - Современные Инф. Тех..md",
+    "Семинары/Лента Времени.canvas",
+    "Семинары/Семинары по истории.md",
     "Лекции/19.09.2023 - История.md",
     "Лекции/История 11.10.2023.md",
     "Лекции/05.09.2023 - История, Рождение Истории человечества.md",
@@ -189,8 +192,6 @@
     "Разное/Дневник Самоконтроля.md",
     "Семинары/Физ ра 1.md",
     "test.md",
-    "Семинары/07.09.2023 - Современные Инф. Тех..md",
-    "Семинары/Семинар 1 (07.09.2023) - История.md",
     "Математика.md",
     "Преподаватели.md",
     "Travkin/tst.txt",
@@ -214,7 +215,6 @@
     "Travkin/lab2/task2/images",
     "Travkin/lab2/task2/solution.py",
     "Travkin/README.md",
-    "Семинары/Лента Времени.canvas",
     "Матем - Элементы линейной алгебры.md",
     "README.md",
     "University/README.md",
