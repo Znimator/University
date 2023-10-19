@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b41a4581fb180d22",
+        "id": "0cceeb90bcf208f7",
         "type": "tabs",
         "children": [
           {
-            "id": "91d20edd6d152e20",
+            "id": "612bfc2a36459ee4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Лекции/19.09.2023 - История.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e68184212e1dc81a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Семинары/Семинары по истории.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Семинары/Семинары по истории.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Семинары/Семинары по истории.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Семинары/Семинары по истории.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,12 +158,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e68184212e1dc81a",
+  "active": "612bfc2a36459ee4",
   "lastOpenFiles": [
+    "Лекции/19.09.2023 - История.md",
+    "Семинары/Семинары по истории.md",
     "Семинары/07.09.2023 - Современные Инф. Тех..md",
     "Семинары/Лента Времени.canvas",
-    "Семинары/Семинары по истории.md",
-    "Лекции/19.09.2023 - История.md",
     "Лекции/История 11.10.2023.md",
     "Лекции/05.09.2023 - История, Рождение Истории человечества.md",
     "Лекции/03.10.2023 - Веб Верстка.md",
